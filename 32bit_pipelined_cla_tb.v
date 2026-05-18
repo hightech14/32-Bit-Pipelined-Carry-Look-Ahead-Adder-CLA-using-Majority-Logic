@@ -59,4 +59,3 @@ module tb_pipelined_cla_debug;
         $finish;
     end
 endmodule 
-₹
